@@ -1,0 +1,53 @@
+_repo: Toilers-of-the-Sea_32338
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Thomas, W. Moy (William Moy)
+    alias: Thomas, William Moy
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '35802'
+    url: http://www.gutenberg.org/2009/agents/35802
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+  editor:
+    agent_name: Rhys, Ernest
+    birthdate: 1859
+    deathdate: 1946
+    gutenberg_agent_id: '6540'
+    url: http://www.gutenberg.org/2009/agents/6540
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Rhys
+description: '"The story concerns a Guernseyman named Gilliatt, a social outcast who
+  falls in love with Deruchette, the niece of a local shipowner, Mess Lethierry. When
+  Lethierry''s ship is wrecked on the Roches Douvres, a perilous reef, Deruchette
+  promises to marry whomever can salvage the ship''s steam engine. Gilliatt eagerly
+  volunteers, and the story follows both his physical trials and tribulations (which
+  includes a battle with an octopus), as well as the undeserved opprobrium of his
+  neighbours"--Wikipedia.'
+gutenberg_issued: '2010-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32338'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Channel Islands -- Fiction'
+- !lcsh 'Guernsey (Channel Islands) -- Fiction'
+- !lcsh 'Sailors -- Fiction'
+- !lcsh 'Fishers -- Fiction'
+- !lcsh 'French fiction -- 19th century'
+- !lcc 'PQ'
+title: Toilers of the Sea
+url: http://www.gutenberg.org/ebooks/32338
